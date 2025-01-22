@@ -6,8 +6,9 @@ c
 
 
 <div style="text-align: center;">
-        [Home](/index.md)
+    <a href="index.md">Home</a>
 </div>
+
 
 
 
