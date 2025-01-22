@@ -3,10 +3,10 @@
 This is the homepage of my GitHub Pages site.
 
 ## About Me
-[Learn more about me](about.md)
+[Learn more about me]()
 
 ## Projects
-[See my projects](projects.md)
+[See my projects]()
 
 ## Contact
-[Get in touch](contact.md)
+[Get in touch]()
