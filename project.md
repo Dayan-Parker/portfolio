@@ -7,7 +7,7 @@ rained an RNN model to identify the gender of a speaker with close to 100% accur
 
 
 <div style="text-align: center;">
-    [Home](index.md)
+    [Home](/index.html)
 </div>
 
 
