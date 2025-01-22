@@ -14,7 +14,7 @@ For training both networks, I employed the Adam optimizer, which combines moment
 
 
 <div style="text-align: center;">
-    <a href="https://dayan-parker.github.io/portfolio.html">Home</a>
+    <a href="https://dayan-parker.github.io/portfolio/.html">Home</a>
 </div>
 
 
