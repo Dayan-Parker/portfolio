@@ -1,6 +1,6 @@
 # Projects
 
-- **Speech Speech Recognition Neural Net**:
+ **Speech Speech Recognition Neural Net**:
 
 In this project, I trained RNN and CNN models to classify both spoken digits (0–10) and the speaker's gender, achieving close to 100% accuracy with low false negative and false positive rates. The RNN model directly processed speech waveforms to leverage the sequential nature of the data, while the CNN was trained on spectrogram representations of the waveforms.
 
