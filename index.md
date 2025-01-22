@@ -1,12 +1,8 @@
-# Welcome to My Portfolio
-
-This is the homepage of my GitHub Pages site.
-
 ## About Me
-[Learn more about me]()
+[Learn more about me](bio.md)
 
 ## Projects
-[See my projects]()
+[See my projects](project.md)
 
 ## Contact
-[Get in touch]()
+[Get in touch](contact.md)
