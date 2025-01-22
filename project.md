@@ -6,3 +6,6 @@ rained an RNN model to identify the gender of a speaker with close to 100% accur
 <iframe src="portfolio/Dayan%20Parker_Mini%20Project%20Presentation.pdf" width="100%" height="600px">
     Your browser does not support PDFs. Please download the PDF to view it: 
 </iframe>
+
+
+[home] index.md
